@@ -5,15 +5,17 @@
 		HoopCount(22);
 	}
 
-	static void HoopCount(int n)
+	public static string HoopCount(int n)
 	{
-		if (n > 10)
+		if(n > 10 || n == 10)
+{
+			return "Great, now move on to tricks";
+		}
+        else if (n < 10)
 		{
-            Console.WriteLine("Great, now move on to tricks");
-        }
-		else
-		{
-            Console.WriteLine("Keep at it until you get it");
-        }
+			return "Keep at it until you get it";
+		}
+
+		return "";
 	}
 }

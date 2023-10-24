@@ -2,7 +2,7 @@
 {
 	static void Main(string[] args)
 	{
-
+	
 	}
 	public static int CountSheeps(bool[] sheeps)
 	{

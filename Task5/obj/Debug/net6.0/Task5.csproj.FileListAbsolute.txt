@@ -1,0 +1,14 @@
+C:\Users\kyper\source\repos\CodeWars\Task5\bin\Debug\net6.0\Task5.exe
+C:\Users\kyper\source\repos\CodeWars\Task5\bin\Debug\net6.0\Task5.deps.json
+C:\Users\kyper\source\repos\CodeWars\Task5\bin\Debug\net6.0\Task5.runtimeconfig.json
+C:\Users\kyper\source\repos\CodeWars\Task5\bin\Debug\net6.0\Task5.dll
+C:\Users\kyper\source\repos\CodeWars\Task5\bin\Debug\net6.0\Task5.pdb
+C:\Users\kyper\source\repos\CodeWars\Task5\obj\Debug\net6.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyper\source\repos\CodeWars\Task5\obj\Debug\net6.0\Task5.AssemblyInfoInputs.cache
+C:\Users\kyper\source\repos\CodeWars\Task5\obj\Debug\net6.0\Task5.AssemblyInfo.cs
+C:\Users\kyper\source\repos\CodeWars\Task5\obj\Debug\net6.0\Task5.csproj.CoreCompileInputs.cache
+C:\Users\kyper\source\repos\CodeWars\Task5\obj\Debug\net6.0\Task5.dll
+C:\Users\kyper\source\repos\CodeWars\Task5\obj\Debug\net6.0\refint\Task5.dll
+C:\Users\kyper\source\repos\CodeWars\Task5\obj\Debug\net6.0\Task5.pdb
+C:\Users\kyper\source\repos\CodeWars\Task5\obj\Debug\net6.0\Task5.genruntimeconfig.cache
+C:\Users\kyper\source\repos\CodeWars\Task5\obj\Debug\net6.0\ref\Task5.dll

@@ -1,0 +1,14 @@
+C:\Users\kyper\source\repos\CodeWars\Task8\bin\Debug\net6.0\Task8.exe
+C:\Users\kyper\source\repos\CodeWars\Task8\bin\Debug\net6.0\Task8.deps.json
+C:\Users\kyper\source\repos\CodeWars\Task8\bin\Debug\net6.0\Task8.runtimeconfig.json
+C:\Users\kyper\source\repos\CodeWars\Task8\bin\Debug\net6.0\Task8.dll
+C:\Users\kyper\source\repos\CodeWars\Task8\bin\Debug\net6.0\Task8.pdb
+C:\Users\kyper\source\repos\CodeWars\Task8\obj\Debug\net6.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyper\source\repos\CodeWars\Task8\obj\Debug\net6.0\Task8.AssemblyInfoInputs.cache
+C:\Users\kyper\source\repos\CodeWars\Task8\obj\Debug\net6.0\Task8.AssemblyInfo.cs
+C:\Users\kyper\source\repos\CodeWars\Task8\obj\Debug\net6.0\Task8.csproj.CoreCompileInputs.cache
+C:\Users\kyper\source\repos\CodeWars\Task8\obj\Debug\net6.0\Task8.dll
+C:\Users\kyper\source\repos\CodeWars\Task8\obj\Debug\net6.0\refint\Task8.dll
+C:\Users\kyper\source\repos\CodeWars\Task8\obj\Debug\net6.0\Task8.pdb
+C:\Users\kyper\source\repos\CodeWars\Task8\obj\Debug\net6.0\Task8.genruntimeconfig.cache
+C:\Users\kyper\source\repos\CodeWars\Task8\obj\Debug\net6.0\ref\Task8.dll

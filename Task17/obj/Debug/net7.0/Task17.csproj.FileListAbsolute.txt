@@ -1,0 +1,14 @@
+C:\Users\kyper\source\repos\CodeWars\Task17\bin\Debug\net7.0\Task17.exe
+C:\Users\kyper\source\repos\CodeWars\Task17\bin\Debug\net7.0\Task17.deps.json
+C:\Users\kyper\source\repos\CodeWars\Task17\bin\Debug\net7.0\Task17.runtimeconfig.json
+C:\Users\kyper\source\repos\CodeWars\Task17\bin\Debug\net7.0\Task17.dll
+C:\Users\kyper\source\repos\CodeWars\Task17\bin\Debug\net7.0\Task17.pdb
+C:\Users\kyper\source\repos\CodeWars\Task17\obj\Debug\net7.0\Task17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyper\source\repos\CodeWars\Task17\obj\Debug\net7.0\Task17.AssemblyInfoInputs.cache
+C:\Users\kyper\source\repos\CodeWars\Task17\obj\Debug\net7.0\Task17.AssemblyInfo.cs
+C:\Users\kyper\source\repos\CodeWars\Task17\obj\Debug\net7.0\Task17.csproj.CoreCompileInputs.cache
+C:\Users\kyper\source\repos\CodeWars\Task17\obj\Debug\net7.0\Task17.dll
+C:\Users\kyper\source\repos\CodeWars\Task17\obj\Debug\net7.0\refint\Task17.dll
+C:\Users\kyper\source\repos\CodeWars\Task17\obj\Debug\net7.0\Task17.pdb
+C:\Users\kyper\source\repos\CodeWars\Task17\obj\Debug\net7.0\Task17.genruntimeconfig.cache
+C:\Users\kyper\source\repos\CodeWars\Task17\obj\Debug\net7.0\ref\Task17.dll
